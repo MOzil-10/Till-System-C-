@@ -1,0 +1,41 @@
+Till Start: R500
+Transaction Total: R54
+Paid: R60
+Change Total: R6
+Change Breakdown: R5-1
+Till Start: R554
+Transaction Total: R113
+Paid: R200
+Change Total: R87
+Change Breakdown: R50-20-10-5-2
+Till Start: R667
+Transaction Total: R73
+Paid: R100
+Change Total: R27
+Change Breakdown: R20-5-2
+Till Start: R740
+Transaction Total: R210
+Paid: R250
+Change Total: R40
+Change Breakdown: R20-20
+Till Start: R950
+Transaction Total: R286
+Paid: R300
+Change Total: R14
+Change Breakdown: R10-2-2
+Till Start: R1236
+Transaction Total: R66
+Paid: R66
+Change Total: R0
+Change Breakdown: 0
+Till Start: R1302
+Transaction Total: R79
+Paid: R90
+Change Total: R11
+Change Breakdown: R10-1
+Till Start: R1381
+Transaction Total: R76
+Paid: R76
+Change Total: R0
+Change Breakdown: 0
+Remaining Balance in Till: R1457
